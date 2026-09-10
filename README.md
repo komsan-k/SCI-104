@@ -35,20 +35,17 @@ Students are required to complete the following Coursera modules as part of the 
 - The submission time recorded in the LMS will be used as the official timestamp.
 ---
 
-## VPython Laboratory Modules
+## Laboratory Modules
 
 | Lab | Topic | GitHub Repository |
 |------|--------|------------------|
-| 1 | Introduction to VPython | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-01 |
-| 2 | Vector Modelling | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-02 |
-| 3 | Physics Simulation of a Bouncing Ball | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-03 |
-| 4 | 1D Spring-Mass System | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-05-Spring-Mass-System |
-| 5 | Simple Harmonic Motion (SHM) | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-06-SHM |
-| 6 | Traveling Wave on a String | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-08-traveling-wave |
-| 7 | Reflection and Interference of Waves | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-10-reflection-interference |
-| 8 | Visualization of Electric Fields | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-11-electric-field |
-| 9 | Visualization of Magnetic Fields | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-12-magnetic-field |
-| 10 | Electromagnetic (EM) Fields | https://github.com/komsan-k/SCI-103/tree/main/lab/lab-13-EM-field |
+| 1 | Qubit Representation | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-1-qubit-dirac-bloch |
+| 2 | Simple Quantum Gates | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-2-quantum-gates |
+| 3 | Basic Quantum Registers | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-3-quantum-register |
+| 4 | Basic Quantum Circuits | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-4-quantum-circuit |
+| 5 | Quantum Adders | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-5-quantum-adder |
+| 6 | Quantum Fourier Transform | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-6-quantum-fourier-transform |
+
 
 
 ---
@@ -58,7 +55,7 @@ Students are required to complete the following Coursera modules as part of the 
 | Component | Percentage |
 |------------|------------|
 | Laboratory Exercises | 30%  (3% each)|
-| Coursera Certificates | 70% (30% + 20% + 20%)|
+| Coursera Certificates | 70% (50% + 20%)|
 
 
 > **Note:** Students are required to submit valid Coursera completion certificates and complete all laboratory activities.
@@ -82,23 +79,25 @@ Students are required to complete the following Coursera modules as part of the 
 
 ## Software Requirements
 
-- VPython
+1.  Install Qiskit:
+
+    ``` bash
+    pip install qiskit
+    ```
+
+2.  Run Jupyter Notebooks or Google Colab with the provided lab
+    exercises.
+
 
 ---
 
-## VPython Resources
+## References
 
-- **VPython (Official Website)**  
-  https://vpython.org/
-
-- **GlowScript VPython (Browser-Based IDE)**  
-  https://www.glowscript.org/
-
-- **Trinket GlowScript (Online Editor)**  
-  https://trinket.io/glowscript
-
-- **Visual Python (VPython) Tutorial (PDF)**  
-  https://engcourses-uofa.ca/wp-content/uploads/Visual-Python-VPython-ver-2.pdf
+-   Nielsen, M. A., & Chuang, I. L. *Quantum Computation and Quantum
+    Information*.
+-   Preskill, J. *Lecture Notes on Quantum Computation*. (https://www.preskill.caltech.edu/ph229/)
+-   Qiskit Textbook: [Learn Quantum Computation Using
+    Qiskit](https://qiskit.org/textbook/).
 ---
 ## Lecturer 
 
