@@ -39,7 +39,7 @@ Students are required to complete the following Coursera modules as part of the 
 
 | Lab | Topic | GitHub Repository |
 |------|--------|------------------|
-| 1 | Qubit Representation | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-1-qubit-dirac-bloch |
+| 1 | Qubits and Quantum States | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-1-qubit-dirac-bloch |
 | 2 | Simple Quantum Gates | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-2-quantum-gates |
 | 3 | Basic Quantum Registers | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-3-quantum-register |
 | 4 | Basic Quantum Circuits | https://github.com/komsan-k/SCI-104-PhysicII-quantum-computation/tree/main/lab/lab-4-quantum-circuit |
