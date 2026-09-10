@@ -54,7 +54,7 @@ Students are required to complete the following Coursera modules as part of the 
 
 | Component | Percentage |
 |------------|------------|
-| Laboratory Exercises | 30%  (3% each)|
+| Laboratory Exercises | 30%  (5% each)|
 | Coursera Certificates | 70% (50% + 20%)|
 
 
