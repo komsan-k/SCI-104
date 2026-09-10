@@ -1,26 +1,32 @@
 # Course SCI-104 Physic II
 
-This is the second half of a two-semester calculus-based introductory physics sequence for engineering students. One fifth of the course covers waves, including standing and traveling waves, s4uperposition, beats, reflection, and interference. Two fifths of the course cover electricity, including electrostatics and electric fields, Gauss' law, electric potential, and simple circuits. The remaining two fifths cover magnetism, including magnetic forces, magnetic fields, induction and electromagnetic radiation.
+Quantum computation representation ; Algorithms that can be applied on quantum circuits ; Potential applications used in quantum computing
 
 
 ## Course Overview
 
-SCI-103 Physics I is a calculus-based course for engineering students covering the fundamentals of **waves, electricity, and magnetism**. Topics include wave behavior, electrostatics, electric fields, Gauss' law, electric potential, basic DC circuits, magnetic fields, electromagnetic induction, and electromagnetic waves. The course emphasizes calculus-based problem-solving and engineering applications, providing a strong foundation for advanced studies in engineering.
+This course introduces the fundamental concepts of quantum computing, with emphasis on the representation of quantum information, the design and implementation of quantum circuits, and quantum algorithms. Students will learn how quantum states, qubits, quantum gates, measurement, superposition, and entanglement are represented mathematically and computationally. The course explores key quantum algorithms that can be implemented using quantum circuits and examines their advantages compared with classical approaches. Potential applications of quantum computing in areas such as optimization, cryptography, machine learning, simulation, and engineering are also introduced. Practical exercises provide students with experience in designing, simulating, and evaluating quantum circuits using quantum computing frameworks such as Qiskit.
 
 ---
 
 ## Coursera Learning Modules
 
-Students are required to complete the following online learning modules:
+Students are required to complete the following Coursera modules as part of the course learning activities.
 
-1. Physics 101 - Forces and Kinematics  (due 1 SEP 2026)  
-https://www.coursera.org/programs/artificial-intelligence-and-system-eng-65etz/learn/physics-101-forces-kinematics?source=search#modules
+### Module 1: Quantum Computing Fundamentals
+**The Complete Quantum Computing Course for Beginners Specialization**  
+📅 **Due:** 27 October 2026  
+🔗 https://www.coursera.org/programs/artificial-intelligence-and-system-eng-65etz/specializations/packt-the-complete-quantum-computing-course-for-beginners
 
-2. Physics 102 - Electric Charges and Fields  (due 15 SEP 2026)
-https://www.coursera.org/programs/artificial-intelligence-and-system-eng-65etz/learn/physics-102-electric-charges-fields?source=search#modules
+### Module 2: Quantum Programming with Qiskit
+**Practical Quantum Computing with IBM Qiskit for Beginners**  
+📅 **Due:** 10 November 2026  
+🔗 https://www.coursera.org/programs/artificial-intelligence-and-system-eng-65etz/learn/packt-beginners-guide-to-practical-quantum-computing-with-ibm-qiskit-w6mos
 
-4. Physics of Oscillators and Waves (due 29 SEP 2026)
-https://www.coursera.org/programs/artificial-intelligence-and-system-eng-65etz/learn/oscillators-waves?source=search#modules
+### Submission Requirements
+- Submit the Coursera completion certificate for each module via the LMS.
+- Both modules must be completed by the specified deadlines.
+- These modules contribute to the continuous assessment component of the course.
 
 **Late Submission Policy**
 
