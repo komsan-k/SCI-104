@@ -1,6 +1,5 @@
 # Undergraduate Qiskit Tutorial
 
-**Format:** Undergraduate hands-on tutorial | **Platform:** Google Colab or Jupyter | **Duration:** 3 hours
 
 ## Learning outcomes
 
