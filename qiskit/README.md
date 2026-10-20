@@ -123,6 +123,4 @@ display(qft(n).draw("mpl"))
 
 **Submission:** executed notebook, screenshots of plots, and short answers.
 
-## Student submission
 
-Submit the executed notebook or a report containing circuit diagrams, statevectors, histograms, the half-adder truth table, and written checkpoint answers.
