@@ -3,7 +3,7 @@
 **Level:** Undergraduate  
 **Platform:** Google Colab or Jupyter Notebook  
 **Estimated time:** 60–90 minutes
----?
+--->
 ## Learning objectives
 
 Students will construct a two-qubit QFT circuit, verify its unitary matrix, visualize input and output qubit states on Bloch spheres, and interpret the difference between measurement probabilities and quantum phases.
