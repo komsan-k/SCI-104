@@ -9,12 +9,16 @@
 Students will construct a two-qubit QFT circuit, verify its unitary matrix, visualize input and output qubit states on Bloch spheres, and interpret the difference between measurement probabilities and quantum phases.
 
 
+
 ## 1. Theory
 
 The Quantum Fourier Transform (QFT) on an $n$-qubit register with $N=2^n$ is
 
 $$
-\operatorname{QFT}|x\rangle = \frac{1}{\sqrt{N}} \sum_{k=0}^{N-1} e^{2\pi i xk/N}|k\rangle.
+\mathrm{QFT}|x\rangle
+= \frac{1}{\sqrt{N}}
+\sum_{k=0}^{N-1}
+e^{2\pi i xk/N}|k\rangle.
 $$
 
 The Fourier matrix uses the **positive exponent** convention.
@@ -44,8 +48,9 @@ $$
 Therefore, the inverse QFT is
 
 $$
-\operatorname{QFT}^{-1}=F_4^\dagger.
+\mathrm{QFT}^{-1}=F_4^\dagger.
 $$
+
 
 
 ## 2. Install packages
