@@ -15,8 +15,7 @@ The Quantum Fourier Transform (QFT) on an $n$-qubit register with $N=2^n$ is
 
 $$
 \operatorname{QFT}|x\rangle
-=
-\frac{1}{\sqrt{N}}
+= \frac{1}{\sqrt{N}}
 \sum_{k=0}^{N-1}
 e^{2\pi i xk/N}|k\rangle.
 $$
