@@ -12,9 +12,9 @@ Students will construct a two-qubit QFT circuit, verify its unitary matrix, visu
 
 The quantum Fourier transform on an \(n\)-qubit register with \(N=2^n\) is
 
-$$
+\[
 \operatorname{QFT}|x\rangle=\frac{1}{\sqrt N}\sum_{k=0}^{N-1}e^{2\pi i xk/N}|k\rangle.
-$$
+\]
 
 The Fourier matrix uses the **positive exponent** convention. This differs from the common classical forward DFT convention, which uses a negative exponent.
 
