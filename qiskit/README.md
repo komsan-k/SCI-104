@@ -3,7 +3,7 @@
 
 ## Learning outcomes
 
-By the end of this lab, students will be able to create quantum circuits, manipulate qubits with gates, visualize statevectors and Bloch spheres, simulate measurement, construct a Bell state, implement a half adder, and compare a small QFT circuit with its Fourier matrix.
+By the end of this tutorial, students will be able to create quantum circuits, manipulate qubits with gates, visualize statevectors and Bloch spheres, simulate measurement, construct a Bell state, implement a half adder, and compare a small QFT circuit with its Fourier matrix.
 
 ## How to run
 
