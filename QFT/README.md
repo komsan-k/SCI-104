@@ -8,21 +8,49 @@
 
 Students will construct a two-qubit QFT circuit, verify its unitary matrix, visualize input and output qubit states on Bloch spheres, and interpret the difference between measurement probabilities and quantum phases.
 
+
 ## 1. Theory
 
-The quantum Fourier transform on an \(n\)-qubit register with \(N=2^n\) is
+The Quantum Fourier Transform (QFT) on an $n$-qubit register with $N=2^n$ is
 
-\[
-\operatorname{QFT}|x\rangle=\frac{1}{\sqrt N}\sum_{k=0}^{N-1}e^{2\pi i xk/N}|k\rangle.
-\]
+$$
+\operatorname{QFT}|x\rangle
+=
+\frac{1}{\sqrt{N}}
+\sum_{k=0}^{N-1}
+e^{2\pi i xk/N}|k\rangle.
+$$
 
-The Fourier matrix uses the **positive exponent** convention. This differs from the common classical forward DFT convention, which uses a negative exponent.
+The Fourier matrix uses the **positive exponent** convention.
+This differs from the common classical forward DFT convention,
+which uses a negative exponent.
 
-For \(N=4\):
+For $N=4$ (two qubits):
 
-\[
-F_4=\frac12\begin{bmatrix}1&1&1&1\\1&i&-1&-i\\1&-1&1&-1\\1&-i&-1&i\end{bmatrix}.
-\]
+$$
+F_4=\frac{1}{2}
+\begin{bmatrix}
+1 & 1 & 1 & 1\\
+1 & i & -1 & -i\\
+1 & -1 & 1 & -1\\
+1 & -i & -1 & i
+\end{bmatrix}.
+$$
+
+Here, $i=\sqrt{-1}$ is the imaginary unit.
+
+The QFT matrix is unitary:
+
+$$
+F_4^\dagger F_4=I_4.
+$$
+
+Therefore, the inverse QFT is
+
+$$
+\operatorname{QFT}^{-1}=F_4^\dagger.
+$$
+
 
 ## 2. Install packages
 
