@@ -120,6 +120,6 @@ display(qft(n).draw("mpl"))
 4. Verify IQFT(QFT(|01>)) = |01>.
 5. Explain why the normalized Fourier matrix is unitary.
 
-**Submission:** executed notebook, screenshots of plots, and short answers.
+<!--- **Submission:** executed notebook, screenshots of plots, and short answers. --->
 
 
