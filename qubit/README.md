@@ -186,7 +186,7 @@ print('Unitary?', np.allclose(Operator(qc).data.conj().T @ Operator(qc).data, np
 
 **Submission:** Executed notebook, circuit diagrams, measurement plots, answers to checkpoints, and a short conclusion.
 --->
-## 14. Further reading
+## Further reading
 - Qiskit documentation: <https://docs.quantum.ibm.com/>
 - IBM Quantum Learning: <https://quantum.cloud.ibm.com/learning>
 - Google Colab: <https://colab.research.google.com/>
