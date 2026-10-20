@@ -173,6 +173,7 @@ print('Unitary?', np.allclose(Operator(qc).data.conj().T @ Operator(qc).data, np
 5. Use `ry` to prepare a state with $P(1)=0.25$. Determine the rotation angle.
 6. Explain why a Z gate changes $|+\rangle$ even though it does not change its Z-basis probabilities.
 
+<!---
 ## 13. Suggested assessment (100 marks)
 | Item | Marks |
 |---|---:|
@@ -184,7 +185,7 @@ print('Unitary?', np.allclose(Operator(qc).data.conj().T @ Operator(qc).data, np
 | Code quality and interpretation | 10 |
 
 **Submission:** Executed notebook, circuit diagrams, measurement plots, answers to checkpoints, and a short conclusion.
-
+--->
 ## 14. Further reading
 - Qiskit documentation: <https://docs.quantum.ibm.com/>
 - IBM Quantum Learning: <https://quantum.cloud.ibm.com/learning>
